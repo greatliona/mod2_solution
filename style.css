@@ -4,11 +4,12 @@
   box-sizing: border-box;
 }
 h1 {
-  position: center
+  position: center;
   margin-bottom: 15px;
 }
 div{
   background-color: #00FFFF;
+  position: relative;
 }
 
 p {
