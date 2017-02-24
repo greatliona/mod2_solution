@@ -23,7 +23,7 @@ p {
 section {
   width: 50%;
   padding: 15px;
-  clear: left;
+  clear: both;
 }
 
 #p1 {
