@@ -7,6 +7,9 @@ h1 {
   position: center
   margin-bottom: 15px;
 }
+div{
+  background-color: #00FFFF;
+}
 
 p {
   clear: left;
