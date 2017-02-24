@@ -10,8 +10,7 @@ h1 {
 
 p {
   clear: left;
-  position: relative;
-    right:0px;
+  position: absolute;
   width: 20%;
   height: 20%;
   border: 1px solid black;
