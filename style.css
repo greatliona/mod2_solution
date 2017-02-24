@@ -12,6 +12,8 @@ p {
   clear: left;
   position: relative;
     right:0px;
+  width: 20%;
+  height: 20%;
   border: 1px solid black;
   background-color: #A52A2A;
   font-family: Helvetica;
