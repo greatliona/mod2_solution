@@ -21,6 +21,7 @@ p {
   color: white;
 }
 section {
+  width: 50%;
   padding: 15px;
   clear: left;
 }
